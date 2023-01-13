@@ -1,0 +1,17 @@
+@using BOL;
+
+<h2>Product Catalog</h2>
+<hr>
+
+@{
+    List<Product> allproduct=ViewBag.products;
+
+        <ol>
+            @foreach (Product product in allproduct)
+            {
+                <li><a href="/products/details/@product.Id">@product.Name</a> <a href="/products/delete/@product.Id"><button type="btn" class="btn btn-danger">Delete</button></a></li>
+            }
+
+        </ol>
+
+}

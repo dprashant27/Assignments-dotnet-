@@ -1,0 +1,17 @@
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\bin\Debug\net7.0\BLL.dll
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\bin\Debug\net7.0\BLL.pdb
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\obj\Debug\net7.0\BLL.dll
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\obj\Debug\net7.0\BLL.pdb
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\obj\Debug\net7.0\ref\BLL.dll
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\bin\Debug\net7.0\BOL.dll
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\bin\Debug\net7.0\BOL.pdb
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\bin\Debug\net7.0\DAL.dll
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BLL\bin\Debug\net7.0\DAL.pdb

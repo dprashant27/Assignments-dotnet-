@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestStudent/1.0.0": {
+        "dependencies": {
+          "Student": "1.0.0"
+        },
+        "runtime": {
+          "TestStudent.dll": {}
+        }
+      },
+      "Student/1.0.0": {
+        "runtime": {
+          "Student.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestStudent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

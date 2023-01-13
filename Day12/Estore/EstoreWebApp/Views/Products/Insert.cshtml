@@ -1,0 +1,11 @@
+@using BOL;
+@model Product;
+
+<form method="post" action="/products/insert">
+    Product Id: <input type="number" name="id" id="id" asp-for="Id"><br>
+    Product Name: <input type="text" name="name" id="name" asp-for="Name"><br>
+    Quantity: <input type="number" name="quantity" id="quantity" asp-for="Quantity"><br>
+    Price : <input type="number" name="price" id="price" asp-for="Price"><br>
+    Image : <input type="text" name="image" id="image" asp-for="Image"><br>
+    <button type="submit" class="btn btn-primary" name="btn" id="btn" >Add Product</button>
+</form>

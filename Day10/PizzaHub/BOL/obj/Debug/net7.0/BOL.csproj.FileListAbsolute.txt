@@ -1,0 +1,12 @@
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BOL\bin\Debug\net7.0\BOL.deps.json
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BOL\bin\Debug\net7.0\BOL.dll
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BOL\bin\Debug\net7.0\BOL.pdb
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BOL\obj\Debug\net7.0\BOL.dll
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BOL\obj\Debug\net7.0\refint\BOL.dll
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BOL\obj\Debug\net7.0\BOL.pdb
+D:\Cdac Notes\.NET\Assignment\Day10\PizzaHub\BOL\obj\Debug\net7.0\ref\BOL.dll

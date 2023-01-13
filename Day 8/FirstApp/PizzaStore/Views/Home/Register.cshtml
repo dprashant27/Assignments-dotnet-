@@ -1,0 +1,21 @@
+@using System.Text.Json;
+@using System.Collections.Generic;
+@{
+    ViewData["Title"] = "SignUp Page";
+}
+
+    
+
+    <div  class="sign">
+    <form action="/home/store" >
+        
+        <div><label for="nm">Name</label></div>
+        <input type="text" name="nm" id="nm"><br>
+        <div><label for="email">Email</label></div>
+        <input type="email" name="email" id="email"><br>
+        <div><label for="pass">Password</label></div>
+        <input type="password" name="pass" id="pass"><br>
+        <button name="btn" id="btn" class="btn btn-primary" align="center" onclick="store" >Sign Up</button>
+    
+    </form>
+    </div>

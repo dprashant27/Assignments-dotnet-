@@ -1,0 +1,17 @@
+@using BOL;
+
+<h2>Product Detail</h2>
+
+<div>
+    @{
+        Product product=ViewBag.prod;
+        <p>
+            Product Id:@product.Id <br>
+            Product Name:@product.Name <br>
+            Product Quantity:@product.Quantity <br>
+            Product Price:@product.Price <br>
+            Product Image:@product.Image<br>
+        </p>
+
+    }
+</div>

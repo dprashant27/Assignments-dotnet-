@@ -1,0 +1,42 @@
+@using BOL;
+
+@{
+    ViewData["Title"] = "Index Page";
+}
+
+<div>
+    @{
+        Pizza pizza=(Pizza)ViewData["Pizza"];
+        <dl style="font-size: x-large;">
+            <dt><b>@pizza.PizzaName</b></dt><br><br>
+            <dd>
+                <div style="float: left;inline-size: 35%;">
+                <img src=@pizza.Img alt="error" height="400px" width="400px">
+                </div>
+                <table >
+                    <tr>
+                        <td>Pizza Id</td>
+                        <td>: @pizza.PizzaId</td>
+                    </tr>
+                    <tr>
+                        <td>Pizza Name</td>
+                        <td>: @pizza.PizzaName</td>
+                    </tr>
+                    <tr>
+                        <td>Description</td>
+                        <td>: @pizza.Descp</td>
+                    </tr>
+                    <tr>
+                        <td>Quantity</td>
+                        <td>: @pizza.Quantity</td>
+                    </tr>
+                    <tr>
+                        <td>Price</td>
+                        <td>: @pizza.Price</td>
+                    </tr>
+                </table>
+
+            </dd>
+        </dl>
+    }
+</div>

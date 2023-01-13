@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{2A69E540-1A05-44EC-B272-8A31D76FC5EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOL", "BOL\BOL.csproj", "{3A52A10C-8D67-46B5-A2D8-D8DAC9A26051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{3B34191F-ACA7-4E66-A18D-63C8CCB492D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoreWebApp", "EstoreWebApp\EstoreWebApp.csproj", "{AB607A32-3E66-4315-9708-DD65DBE91B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A69E540-1A05-44EC-B272-8A31D76FC5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A69E540-1A05-44EC-B272-8A31D76FC5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A69E540-1A05-44EC-B272-8A31D76FC5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A69E540-1A05-44EC-B272-8A31D76FC5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A52A10C-8D67-46B5-A2D8-D8DAC9A26051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A52A10C-8D67-46B5-A2D8-D8DAC9A26051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A52A10C-8D67-46B5-A2D8-D8DAC9A26051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A52A10C-8D67-46B5-A2D8-D8DAC9A26051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B34191F-ACA7-4E66-A18D-63C8CCB492D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B34191F-ACA7-4E66-A18D-63C8CCB492D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B34191F-ACA7-4E66-A18D-63C8CCB492D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B34191F-ACA7-4E66-A18D-63C8CCB492D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB607A32-3E66-4315-9708-DD65DBE91B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB607A32-3E66-4315-9708-DD65DBE91B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB607A32-3E66-4315-9708-DD65DBE91B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB607A32-3E66-4315-9708-DD65DBE91B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
